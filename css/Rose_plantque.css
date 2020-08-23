@@ -1,0 +1,141 @@
+.grid-container
+{
+    display: grid;
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    background-color: #1f2605;
+    margin-bottom: 10px;
+}
+.imagealoe
+{
+    margin-left: -200px;
+    margin-top: 90px;
+    display:flex;
+    font-size:40px;
+    font-weight: bold;
+    width:90%;
+    /* margin-left: 90px; */
+    margin-top:-250px;
+     height:9%; 
+    padding: 300px;
+
+}
+.container
+{
+  background-color: #d3d07f;
+  width: 1350px;
+  height:800px;
+  /* border: 10px solid black; */
+  padding: 50px;
+  margin-top: 40px;
+  margin-left: 120px;
+}
+.begin
+{
+    font-weight: bold;
+    font-size:80px;
+    color:#1f2605 ;
+    margin-left: 250px;
+}
+.ques1
+{
+    font-weight: bold;
+    font-size:55px;
+    color:#1f2605;
+    margin-left: 90px;
+    margin-top: 50px;
+    
+}
+.plant_image
+{
+  background-color: #a4a71e;
+  width: 350px;
+  height:800px;
+  /* border: 0px solid black; */
+  padding: 50px;
+  margin-top: -900px;
+  margin-left: 1660px;
+}
+#button1:hover
+{
+    background-color:#25db43;
+}
+#button2:hover
+{
+    background-color:#25db43;
+}
+#button3:hover
+{
+    background-color:#25db43;
+}
+#button4:hover
+{
+    background-color:#25db43;
+}
+#button1
+{
+    background-color: #4CAF50;
+    font-size:30px;
+    margin-left: 70px;
+    font-weight: bold;
+    margin-top: 40px;
+    margin-right: 40px;
+    padding: 10px;
+    color:white;
+    text-align: center;
+    border-radius: 15px;
+}
+#button2
+{
+    background-color: #4CAF50;
+    font-size:30px;
+    margin-right: 40px;
+    margin-left: 90px;
+    margin-top: 40px;
+    padding: 10px;
+    font-weight: bold;
+    color: seashell;
+    text-align: center;
+    border-radius: 15px;
+}
+#button3
+{
+    background-color: #4CAF50;
+    font-size:30px;
+    margin-right: 40px;
+    margin-left: 80px;
+    margin-top: 40px;
+    font-weight: bold;
+    padding: 10px;
+    color:snow;
+    text-align: center;
+    border-radius: 15px;
+}
+#button4
+{
+    background-color: #4CAF50;
+    font-size:30px;
+    margin-right: 0px;
+    margin-left: 60px;
+    font-weight: bold;
+    margin-top:40px;
+    padding: 10px;
+    color: snow;
+    text-align: center;
+    border-radius: 15px;
+}
+img
+{
+  border-radius: 20%;
+  margin-right: 20px;
+  margin-top: 100px;
+}
+.image2
+{
+    margin-top:300px;
+    padding: 40px;
+   
+}

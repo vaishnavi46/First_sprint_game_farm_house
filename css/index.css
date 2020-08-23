@@ -1,0 +1,133 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: auto  ;
+    padding: 10px;
+}
+  .item1 {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    color:red;
+    background-color: #1f2605;
+    margin-bottom: 20px;
+  }
+  .item6
+  {
+    text-align: left;
+    grid-template-columns: auto ;
+    padding: 20px;
+    font-size: 30px;
+    text-align: start;
+    color:whitesmoke;
+    font-weight: bold;
+}
+.color1
+{
+    background-color: #1f6521;
+    color: palegoldenrod;
+}
+.list
+{
+    text-align: left;
+    grid-template-columns: auto ;
+    padding: 20px;
+    font-size: 30px;
+    text-align: left;
+    margin-left: 90px;
+    margin-top: -50px;
+}
+.comment
+{
+    text-align: left;
+    grid-template-columns: auto ;
+    padding: 20px;
+    font-size: 30px;
+    text-align: left;
+    margin-top: -50px;
+}
+.item2
+{
+    text-align: left;
+    grid-template-columns: auto ;
+    padding: 20px;
+    font-size: 50px;
+    text-align: center;
+    margin-top: -10px;
+    color: rgb(226, 214, 216);
+    font-weight: bold;
+}
+.image
+{
+    background-color:#1f2605;
+}
+.image1
+{
+    text-align: left;
+    grid-template-columns: auto ;
+    padding: 20px;
+    font-size: 70px;
+    text-align: left;
+    margin-left:200px ;
+}
+.image2
+{
+    text-align: center;
+    grid-template-columns: auto ;
+    padding: 20px;
+    font-size: 30px;
+    text-align: left;
+    margin-left:750px ;
+    margin-top: -350px;
+    border-radius: 100%;
+}
+img
+{
+    border-radius: 0px;
+    box-shadow: 60px 9px 70px #ccc;
+    -moz-border-radius:190px;
+    -webkit-border-radius:190px;
+}
+
+.image3
+{
+    /* text-align: end; */
+    grid-template-columns: auto ;
+    padding: 20px;
+    font-size: 30px;
+    text-align:  end;
+    margin-top: -350px;
+}
+.plant1
+{
+    grid-template-columns: auto ;
+    padding: 10px;
+    font-size: 30px;
+    text-align: left;
+    margin-top: 30px;
+    margin-left:340px;
+    color: rgb(19, 196, 19);
+}
+.plant2
+{
+    grid-template-columns: auto ;
+    padding: 10px;
+    font-size: 30px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left:1000px;
+    color: rgb(19, 196, 19);
+}
+.plant3
+{
+    grid-template-columns: auto ;
+    padding: 10px;
+    font-size: 30px;
+    text-align: left;
+    margin-top: -60px;
+    margin-left:1740px;
+    margin-bottom: 120px;
+    color: rgb(19, 196, 19);
+}
+
+

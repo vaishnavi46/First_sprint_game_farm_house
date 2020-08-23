@@ -1,0 +1,88 @@
+.grid-container
+{
+    display:grid;
+    color:red;
+    grid-template-areas: auto;
+    text-align: center;
+    font-weight: bold;
+    background-color: #1f2605;
+    font-size: 40px;
+}
+.result
+{
+    border:0px solid black;
+    padding: 20px;
+    margin: 30px;
+    background-color:#bc4639 ;
+    color: rgb(248, 231, 194);
+    text-align: center;
+    font-style:italic ;
+    margin-top:50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    font-weight: bold;
+    height: 900px;
+    width: 1500px;
+}
+p
+{
+    font-weight: bold;
+    color:greenyellow;
+    margin-top: 30px;
+    padding: 0px;
+}
+#retakequiz
+{
+    margin-top: -700px;
+    margin-left: 700px;
+    background-color: #1ac236;
+    font-size:30px;
+    font-weight: bold;
+    padding: 10px;
+    font-style: italic;
+    color:black;
+    text-align: center;
+    border-radius: 25px;
+}
+#retakequiz:hover
+{
+    background-color: chartreuse;
+}
+.benefits
+{
+    margin-top:-500px;
+    margin-left: 70px;
+    color: rgb(225, 228, 235);
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 40px;
+}
+.plant_image
+{
+    position: relative;
+    width: 350px;
+    height:800px;
+    /* border: 0px solid black; */
+    padding: 50px;
+    margin-top: -750px;
+    margin-left: 1660px;
+}
+#percent
+{
+    margin-top: -108px;
+    margin-left: 180px;
+}
+.image2
+{
+    margin-top:430px;
+    padding: 40px;  
+}
+
+.aloe1
+{
+    position: relative;
+    top: 0;
+    left: 0;
+    margin-top: -60px;
+    z-index: -1;
+}
